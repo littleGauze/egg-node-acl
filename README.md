@@ -47,7 +47,7 @@ exports.nodeAcl = {
 exports.nodeAcl = {
   client: {
     rules: [], // node-acl rules. { roles: [], allows: [] }
-    hierarcky: [], // node-acl parent map. { parent: 'admin', children: ['blog', 'account'] }
+    hierarchy: [], // node-acl parent map. { parent: 'admin', children: ['blog', 'account'] }
     routes: {
       prefix: '', // remove the prefix from path
       ignore: [], // ignore pattern
