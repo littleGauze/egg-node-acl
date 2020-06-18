@@ -14,10 +14,4 @@ describe('test/node-acl.test.js', () => {
   after(() => app.close());
   afterEach(mock.restore);
 
-  it('should GET /', () => {
-    return app.httpRequest()
-      .get('/')
-      .expect('hi, nodeAcl')
-      .expect(200);
-  });
 });

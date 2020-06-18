@@ -42,10 +42,9 @@
   },
   "files": [
     "app.js",
-    "agent.js",
-    "config",
+    "lib",
     "app",
-    "lib"
+    "config"
   ],
   "ci": {
     "version": "8, 10"

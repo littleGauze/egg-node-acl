@@ -1,6 +1,6 @@
 'use strict';
 
-module.exports = options => {
+module.exports = () => {
   return async (ctx, next) => {
     const { app } = ctx;
     const { routes: { prefix = '', ignore = [], match = [] } = {} } = app.config.nodeAcl.client;
