@@ -8,7 +8,7 @@
 [![npm download][download-image]][download-url]
 
 [npm-image]: https://img.shields.io/npm/v/egg-node-acl.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/egg-node-acl
+[npm-url]: https://npmjs.org/package/@littlegauze/egg-node-acl
 [travis-image]: https://img.shields.io/travis/eggjs/egg-node-acl.svg?style=flat-square
 [travis-url]: https://travis-ci.org/eggjs/egg-node-acl
 [codecov-image]: https://img.shields.io/codecov/c/github/eggjs/egg-node-acl.svg?style=flat-square
@@ -27,7 +27,7 @@ Description here.
 ## Install
 
 ```bash
-$ npm i egg-node-acl --save
+$ npm i @littlegauze/egg-node-acl --save
 ```
 
 ## Usage
