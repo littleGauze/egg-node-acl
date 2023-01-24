@@ -220,7 +220,7 @@
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^13.0.0"
 
-"@littlegauze/acl@^0.5.0":
+"@littlegauze/acl@^0.5.1":
   version "0.5.1"
   resolved "https://registry.yarnpkg.com/@littlegauze/acl/-/acl-0.5.1.tgz#8e812f33eb97c912a3dde379c354674473f139de"
   integrity sha512-/x84Oao8qHAxcDaQO119jz4ol+9dGf0z4mdmOdKc62jKmOnNGa/oVi+00Pj7ZRsQ09HTdoROac1kGCwYUsL7ug==
@@ -2206,9 +2206,9 @@ cookie@^0.3.1:
   integrity sha1-5+Ch+e9DtMi6klxcWpboBtFoc7s=
 
 cookiejar@^2.1.0:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/cookiejar/-/cookiejar-2.1.2.tgz#dd8a235530752f988f9a0844f3fc589e3111125c"
-  integrity sha512-Mw+adcfzPxcPeI+0WlvRrr/3lGVO0bD75SxX6811cxSh1Wbxx7xZBGK1eVtDf6si8rg2lhnUjsVLMFMfbRIuwA==
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/cookiejar/-/cookiejar-2.1.4.tgz#ee669c1fea2cf42dc31585469d193fef0d65771b"
+  integrity sha512-LDx6oHrK+PhzLKJU9j5S7/Y3jM/mUHvD/DeI1WQmJn652iPC5Y4TBzC9l+5OMOXlyTTA+SmVUPm0HQUwpD5Jqw==
 
 cookies@~0.8.0:
   version "0.8.0"
